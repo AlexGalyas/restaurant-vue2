@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "batman@secret.com",
+      "name": "batman",
+      "password": "imbatman",
+      "id": 5
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 11111,
+      "address": "Ukrane,Kharkiv"
+    },
+    {
+      "name": "McDonalds",
+      "contact": 22222,
+      "address": "Ukrane,Kyiv",
+      "id": 2
+    },
+    {
+      "name": "Subway",
+      "contact": 33333,
+      "address": "Ukrane,Lviv",
+      "id": 3
+    },
+    {
+      "name": "KFC",
+      "contact": 44444,
+      "address": "Ukrane,Odessa",
+      "id": 4
+    },
+    {
+      "name": "Chelentano",
+      "contact": "55555",
+      "address": "Ukraine,Vinnytsa",
+      "id": 5
+    },
+    {
+      "name": "Lounge",
+      "contact": "66666",
+      "address": "Some place, England",
+      "id": 6
+    }
+  ]
+}
